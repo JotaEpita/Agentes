@@ -1,0 +1,7 @@
+{
+  "name": "agentes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

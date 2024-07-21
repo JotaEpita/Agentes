@@ -1,0 +1,11 @@
+.about-container {
+  text-align: center;
+  padding: 16px;
+}
+
+.about-image {
+  width: 150px; /* Ajusta el tamaño según tus necesidades */
+  height: auto;
+  border-radius: 50%; /* Si quieres hacer la imagen redonda */
+  margin-bottom: 16px;
+}
